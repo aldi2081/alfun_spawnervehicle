@@ -5,6 +5,8 @@ Config = {}
 Config.MarkerVeh = 
 { 
     -- Spawn Vehicle Garsun --
+
+	
 	{x = 230.62 ,y =  -796.84 ,z = 29.50},
 	{x = 215.0 ,y =  -790.62 ,z = 30.0},
 }
