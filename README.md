@@ -1,2 +1,2 @@
-# alfun_spawnervehicle
-Script Spawn Kendaraan
+# Spawn Vehicle
+Simple Spawn Vehicle
